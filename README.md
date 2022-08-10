@@ -8,5 +8,5 @@ PACMAN
 How To Play
 1. Use your arrow keys to move Pacman around the field.
 2. Moving pacman continuously to one of the walls will bring it to the opposite wall.
-3. The game is complele when pacman or ghost gets 11 points.
+
 
